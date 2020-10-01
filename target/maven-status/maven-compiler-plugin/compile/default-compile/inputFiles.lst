@@ -1,0 +1,4 @@
+/home/lramirez/workspace/springboot-aws-secrets-manager/src/main/java/com/madadipouya/demo/springbootawssecretmanager/SpringBootAwsSecretManagerApplication.java
+/home/lramirez/workspace/springboot-aws-secrets-manager/src/main/java/com/madadipouya/demo/springbootawssecretmanager/entity/User.java
+/home/lramirez/workspace/springboot-aws-secrets-manager/src/main/java/com/madadipouya/demo/springbootawssecretmanager/controller/UserController.java
+/home/lramirez/workspace/springboot-aws-secrets-manager/src/main/java/com/madadipouya/demo/springbootawssecretmanager/repository/UserRepository.java
